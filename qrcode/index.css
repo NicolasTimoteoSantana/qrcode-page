@@ -1,0 +1,29 @@
+.body{
+    margin-top: 7%;
+    background-color:#D8EFFF ;
+    display:flexbox;
+}
+.box {
+    border-radius: 4%;
+    background-color: white;
+    font-size: 53%;
+    padding-bottom: 1%;
+    margin-top: 1%;
+    margin-left: 35%;
+    margin-right: 40%;
+}
+.qrcode {
+    border-radius: 4%;
+    margin-top: 5%;
+    background-color: #A2B3BF;
+    margin-right:10%;
+    margin-left: 5%;
+    width: 90%;
+    height:90%;
+}
+.texto{
+    display:flex;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 3%;
+}
